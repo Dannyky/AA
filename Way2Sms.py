@@ -1,19 +1,13 @@
-#Code to Just Print in Python
 #!/usr/bin/env python
-
-# :File  : sendsms2.py 
+# :File  : way2sms.py 
 # :Author: Danny Ky
 #!/usr/bin/python
 
 
 import urllib2
-
 import cookielib
-
 from getpass import getpass
-
 import os
-
 import sys
 
 print "\n\t\t###############################################"
@@ -22,18 +16,9 @@ print "\t\t#          Way2Sms Script using Python          #"
 print "\t\t#                                               #"
 print "\t\t#################################################"
 
-
-
-
-
-
-
-
 username = raw_input("Enter Sender's Number :")
 
 passwd = raw_input("Enter Sender's Password :")
-
-
 
 message = raw_input("Enter Message :")
 

@@ -1,0 +1,23 @@
+IP : 192.168.3.116
+
+Steps to be enabled in Tally.ERP9
+Open Tally.ERP9;
+Gateway of Tally-> F12 ->Advanced Configuration
+Tally Acting as : Both
+Enable ODBC : Yes
+Port : 9000
+Enable HTTPLog : Yes (Only in Dev Mode)
+
+
+
+Steps to be followed in Tally.Developer9
+Open Developer, Tool -> Tally Connector -> URL: http://localhost:9000
+Now Provide the XML tags in Post Text Area & Click Go Button
+You will get appropriate Response in Response Area
+
+
+To get XML tags for all masters
+Please note, you can get all the Master XML?s code from
+1.Gateway of Tally - >Display -> List of accounts.
+2.Select button -> as per your requirement
+3.Export the XML from Tally.ERP9. 

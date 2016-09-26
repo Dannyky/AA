@@ -1,0 +1,78 @@
+<collection shelf="New Arrivals">
+<movie title="Enemy Behind">
+   <type>War, Thriller</type>
+   <format>DVD</format>
+   <year>2003</year>
+   <rating>PG</rating>
+   <stars>10</stars>
+   <description>Talk about a US-Japan war</description>
+</movie>
+<CURRENCY NAME="₹" RESERVEDNAME="">
+      <GUID>6d35bd7a-fce2-4682-871c-840f3773e6f6-0000001d</GUID>
+      <MAILINGNAME>INR</MAILINGNAME>
+      <ORIGINALNAME>₹</ORIGINALNAME>
+      <EXPANDEDSYMBOL>INR</EXPANDEDSYMBOL>
+      <DECIMALSYMBOL>paise</DECIMALSYMBOL>
+      <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
+      <ASORIGINAL>No</ASORIGINAL>
+      <ISSUFFIX>No</ISSUFFIX>
+      <HASSPACE>Yes</HASSPACE>
+      <INMILLIONS>No</INMILLIONS>
+      <ALTERID> 327</ALTERID>
+      <DECIMALPLACES> 2</DECIMALPLACES>
+      <DECIMALPLACESFORPRINTING> 2</DECIMALPLACESFORPRINTING>
+      <DAILYSTDRATES.LIST>      </DAILYSTDRATES.LIST>
+      <DAILYBUYINGRATES.LIST>      </DAILYBUYINGRATES.LIST>
+      <DAILYSELLINGRATES.LIST>      </DAILYSELLINGRATES.LIST>
+     </CURRENCY>
+     <CURRENCY NAME="₹" RESERVEDNAME="">
+      <GUID>6d35bd7a-fce2-4682-871c-840f3773e6f6-0000001d</GUID>
+      <MAILINGNAME>INR</MAILINGNAME>
+      <ORIGINALNAME>₹</ORIGINALNAME>
+      <EXPANDEDSYMBOL>INR</EXPANDEDSYMBOL>
+      <DECIMALSYMBOL>paise</DECIMALSYMBOL>
+      <ISUPDATINGTARGETID>No</ISUPDATINGTARGETID>
+      <ASORIGINAL>No</ASORIGINAL>
+      <ISSUFFIX>No</ISSUFFIX>
+      <HASSPACE>Yes</HASSPACE>
+      <INMILLIONS>No</INMILLIONS>
+      <ALTERID> 327</ALTERID>
+      <DECIMALPLACES> 2</DECIMALPLACES>
+      <DECIMALPLACESFORPRINTING> 2</DECIMALPLACESFORPRINTING>
+      <DAILYSTDRATES.LIST>      </DAILYSTDRATES.LIST>
+      <DAILYBUYINGRATES.LIST>      </DAILYBUYINGRATES.LIST>
+      <DAILYSELLINGRATES.LIST>      </DAILYSELLINGRATES.LIST>
+  </CURRENCY>
+	 
+<movie title="Transformers">
+   <type>Anime, Science Fiction</type>
+   <format>DVD</format>
+   <year>1989</year>
+   <rating>R</rating>
+   <stars>8</stars>
+   <description>A schientific fiction</description>
+</movie>
+   <movie title="Trigun">
+   <type>Anime, Action</type>
+   <format>DVD</format>
+   <episodes>4</episodes>
+   <rating>PG</rating>
+   <stars>10</stars>
+   <description>Vash the Stampede!</description>
+</movie>
+<movie title="Ishtar">
+   <type>Comedy</type>
+   <format>VHS</format>
+   <rating>PG</rating>
+   <stars>2</stars>
+   <description>Viewable boredom</description>
+</movie>
+
+<tvseries title="Broke Girls">
+   <type>Comedy</type>
+   <format1>VHS</format1>
+   <rating>PG</rating>
+   <stars>2</stars>
+   <description>2 Broke Girls</description>
+</tvseries>
+</collection>
